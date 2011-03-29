@@ -1,0 +1,7 @@
+.project
+.pydevproject
+dist/
+build/
+*.exe
+*.dll
+*.exe
